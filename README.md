@@ -1,6 +1,6 @@
 # Joint Global and Local Hierarchical Priors for Learned Image Compression (CVPR 2022) | [paper](https://openaccess.thecvf.com/content/CVPR2022/html/Kim_Joint_Global_and_Local_Hierarchical_Priors_for_Learned_Image_Compression_CVPR_2022_paper.html)
 
-<img src="figures/teaser.png" width="48%"> <img src="figures/concept.png" width="40%">
+<img src="figures/teaser.png" width="54%"> <img src="figures/concept.png" width="45%">
 
 Officical PyTorch implementation of Informer 
 
