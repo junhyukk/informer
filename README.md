@@ -36,3 +36,8 @@ If you find this work useful in your research, please cite this paper:
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
   year={2022}
 }
+```
+
+## Acknowledgement
+Our code is based on [CompressAI](https://github.com/InterDigitalInc/CompressAI).
+
